@@ -1,0 +1,2 @@
+Esta carpeta contiene la solución a los ejercicios propuestos por el 
+profesor de BdD y Programación.
